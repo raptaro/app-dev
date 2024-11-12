@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-#My favorite series#
+# My favorite series#
 **Bigbang Theory**
 *Sheldon is the main character*
 > Sheldon loves
