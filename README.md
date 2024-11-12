@@ -3,7 +3,7 @@ My first repository
 
 # My favorite series
 ** Bigbang Theory **
-* Sheldon is the main character *
+*Sheldon is the main character*
 > Sheldon loves
 1. Science
 2. Theory
